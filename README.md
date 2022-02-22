@@ -7,3 +7,4 @@ Clean and minimalist React Native template for a quick start with redux toolkit
 ```sh
 expo init my-app --template  react-native-redux-template
 ```
+
